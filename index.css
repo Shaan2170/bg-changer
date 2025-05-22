@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+}
+.elements{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.blue{
+    background-color: blue;
+}
